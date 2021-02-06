@@ -7,4 +7,17 @@ $( document ).ready(function() {
     console.log('success');
   });
 
+  var words = [
+  'coding',
+  'branding',
+  'illustration',
+  'multimedia'
+  ], i = 0;
+
+  setInterval(function () {       // \/ \/ callback function
+  	$('#word').fadeOut(200, function() {
+    	$(this).text( words[ (i === words.length - 1) ? i = 0 : i += 1 ] ).fadeIn(200);
+    });
+  }, 3000);
+
 });
