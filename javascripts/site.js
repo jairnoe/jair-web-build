@@ -11,7 +11,7 @@ $( document ).ready(function() {
   'coding',
   'branding',
   'illustration',
-  'multimedia'
+  'content'
   ], i = 0;
 
   setInterval(function () {       // \/ \/ callback function
