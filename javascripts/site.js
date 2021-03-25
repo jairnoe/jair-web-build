@@ -1,6 +1,9 @@
-$( document ).ready(function() {
+$(window).on('load', function(){
+  $('#loading_wrap').fadeOut();$
+});
 
-  console.log( "ready!" );
+
+$(document).ready(function() {
 
   $('#mode-toggle').click(function(){
     $('body').toggleClass('light');
@@ -19,7 +22,6 @@ $( document ).ready(function() {
     	$(this).text( words[ (i === words.length - 1) ? i = 0 : i += 1 ] ).fadeIn(200);
     });
   }, 3000);
-
 
   var allPanels = $('.accordion > dd').hide().css('opacity',0);
   var allArrows = $('.accordion > dt > a > svg');
@@ -50,8 +52,6 @@ $( document ).ready(function() {
         allPanels.removeClass('active').slideUp('normal').css('opacity',0);
         allArrows.removeClass('rotate');
       }
-
     return false;
   });
-
 });
