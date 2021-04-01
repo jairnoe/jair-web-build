@@ -2,8 +2,16 @@ $(window).on('load', function(){
   $('#loading_wrap').fadeOut();$
 });
 
-
 $(document).ready(function() {
+
+  $('#menu').hide();
+  $('#menu-toggle').click(function(){ $('#menu').fadeIn(200); });
+  $('#menu-close').click(function(){ $('#menu').fadeOut(200); });
+  $('#menu a').click(function(){ $('#menu').fadeOut(200); });
+
+  $(window).resize(function(){
+    $('#menu').hide();
+  })
 
   $('#mode-toggle').click(function(){
     $('body').toggleClass('light');
