@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer-" transform="translate(-814.000000, -131.000000)" fill="#7ECAA7" fill-rule="nonzero">
+            <g id="Group-12" transform="translate(595.000000, 119.000000)">
+                <g id="Group-5" transform="translate(210.000000, 1.000000)">
+                    <g id="mail_black_24dp" transform="translate(9.000000, 11.000000)">
+                        <path d="M19.8,0 L2.2,0 C0.99,0 0.011,0.99 0.011,2.2 L0,15.4 C0,16.61 0.99,17.6 2.2,17.6 L19.8,17.6 C21.01,17.6 22,16.61 22,15.4 L22,2.2 C22,0.99 21.01,0 19.8,0 Z M19.8,4.4 L11,9.9 L2.2,4.4 L2.2,2.2 L11,7.7 L19.8,2.2 L19.8,4.4 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

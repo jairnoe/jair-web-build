@@ -1,0 +1,37 @@
+<h1 id="tachyons-sass-build-statushttpstravis-ciorgtachyons-csstachyons-sasssvgbranchmasterhttpstravis-ciorgtachyons-csstachyons-sass">tachyons-sass <a href="https://travis-ci.org/tachyons-css/tachyons-sass"><img src="https://travis-ci.org/tachyons-css/tachyons-sass.svg?branch=master" alt="Build Status" /></a></h1>
+
+<p>Transpiled partials for Tachyons.</p>
+
+<h2 id="installation">Installation</h2>
+
+<p><code>bash
+npm install --save tachyons-sass
+</code></p>
+
+<h2 id="usage">Usage</h2>
+
+<p><code>scss
+@import "path/to/tachyons.scss";
+</code></p>
+
+<h2 id="license">License</h2>
+
+<p>MIT</p>
+
+<h2 id="contributing">Contributing</h2>
+
+<ol>
+  <li>Fork it</li>
+  <li>Create your feature branch (<code>git checkout -b my-new-feature</code>)</li>
+  <li>Commit your changes (<code>git commit -am 'Add some feature'</code>)</li>
+  <li>Push to the branch (<code>git push origin my-new-feature</code>)</li>
+  <li>Create new Pull Request</li>
+</ol>
+
+<p>Built by <a href="https://twitter.com/mrmrs_">@mrmrs_</a> &amp; <a href="https://twitter.com/4lpine">@4lpine</a>.</p>
+
+<hr />
+
+<blockquote>
+  <p>This package was initially generated with <a href="http://yeoman.io">yeoman</a> and the <a href="https://github.com/johnotander/generator-p.git">p generator</a>.</p>
+</blockquote>

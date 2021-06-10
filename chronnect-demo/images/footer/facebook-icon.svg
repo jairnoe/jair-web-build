@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.494118 0 0 0 0 0.792157 0 0 0 0 0.654902 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer-" transform="translate(-744.000000, -128.000000)">
+            <g id="Group-12" transform="translate(595.000000, 119.000000)">
+                <g id="Group-3" transform="translate(140.000000, 0.000000)" filter="url(#filter-1)">
+                    <g transform="translate(9.000000, 9.000000)">
+                        <path d="M10.999919,0 C4.92526193,0 0,4.95537778 0,11.0669778 C0,16.5902815 4.02191119,21.1690519 9.28133352,22 L9.28133352,14.2667556 L6.48770072,14.2667556 L6.48770072,11.0669778 L9.28133352,11.0669778 L9.28133352,8.62823704 C9.28133352,5.85493333 10.9241134,4.32194074 13.4363905,4.32194074 C14.6398863,4.32194074 15.8989405,4.53819259 15.8989405,4.53819259 L15.8989405,7.26179259 L14.5114378,7.26179259 C13.1454782,7.26179259 12.7185045,8.11474074 12.7185045,8.99082963 L12.7185045,11.0669778 L15.7690342,11.0669778 L15.2818047,14.2667556 L12.7185045,14.2667556 L12.7185045,22 C17.9780888,21.1705185 22,16.5919111 22,11.0669778 C22,4.95537778 17.0747381,0 10.999919,0 Z" id="Fill-1" fill="#333333"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

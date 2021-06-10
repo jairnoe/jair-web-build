@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="274px" height="355px" viewBox="0 0 274 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <polygon id="path-1" points="0 0.0004 273.080544 0.0004 273.080544 354.422 0 354.422"></polygon>
+    </defs>
+    <g id="Chronnect" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g id="Conecta" transform="translate(-639.000000, -1651.000000)">
+            <g id="Group-3" transform="translate(639.000000, 1651.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M3.96644925,184.991 C-6.13642254,232.261 2.3535628,286.386 37.6102368,319.575 C53.3868156,334.424 73.2131745,343.924 94.3643687,349.192 C108.631438,352.747 123.500706,354.378 138.138127,354.421979 C185.176801,354.559 230.300486,340.1 273.080618,319.72 L273.080618,8 C273.080618,3.581 269.486501,-2.84217094e-14 265.051314,-2.84217094e-14 L97.183658,-2.84217094e-14 C87.3427423,18.521 76.279365,36.526 65.2922661,54.336 C39.8925665,95.509 14.069321,137.722 3.96644925,184.991" id="Fill-1" fill="#FFDD53" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
